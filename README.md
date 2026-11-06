@@ -54,12 +54,7 @@ I'm a Computer Science undergraduate and a software developer passionate about b
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kparitosh07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kparitosh07&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kparitosh07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./profile/streak.svg" width="65%" alt="GitHub Streak Stats" />
 </p>
 
 ---
